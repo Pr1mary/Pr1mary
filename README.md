@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pr1mary
-- 👀 I’m interested in front-end development, back-end development, and game development
+- 👀 I’m interested in cloud technologies, back-end development, and game development
 - 🌱 I’m currently learning nodejs and reactjs
 
 <!---
