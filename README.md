@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pr1mary
 - 👀 I’m interested in cloud technologies, back-end development, and game development
-- 🌱 I’m currently learning nodejs and reactjs. Interest in learning .net Core in the future.
+- 🌱 I’m currently learning rust and golang
 
 <!---
 Pr1mary/Pr1mary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
